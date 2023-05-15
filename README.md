@@ -18,18 +18,19 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 • No se realiza validación, ni se verifica calidad en los datos ingresados.
 </ol>
 
-<H2>HISTORIA DE USUARIO:
+## HISTORIA DE USUARIO:
+ 
+ ![](https://github.com/Diegogonzalezdr/ProyectoAutopartes2/blob/main/image.png)
+
+## CASO DE USO
 
 
+ - Nombre:  Calcular Promedio Ventas Autopartes.
+ - Actores:  Gerente de Autopartes
+ - Propisito:  Guardar numero de referencia del producto ,  nombre y modelo del vehiculo y precio de la venta para calcular un promedio de venta.
 
-
-<h2>CASO DE USO
-
-
- <b>Nombre:</b> Calcular Promedio Ventas Autopartes.
- <b> Actores: </b> Gerente de Autopartes
-Propisito: Guardar numero de referencia del producto ,  nombre y modelo del vehiculo y precio de la venta para calcular un promedio de venta.
 <b>Curso Normal de Eventos:</b>
+
 <ol>
 1. El gerente ingresa la cantidad de ventas obtenidas
 </ol>
@@ -44,7 +45,7 @@ promedio =  (acum + ventas2) / ventas;</ol>
 </ol>
 
 <hr>
-<H2>DIAGRAMA DE FLUJO
+## DIAGRAMA DE FLUJO
 
 <link>https://lucid.app/documents/view/3f1cf999-31fe-4def-87ec-c73198817c49</link>
 
@@ -52,7 +53,7 @@ promedio =  (acum + ventas2) / ventas;</ol>
 </hr>
 
 
-<h2>pseudocodigo</h2>
+## pseudocodigo 
 <p>
 INICIO
 
