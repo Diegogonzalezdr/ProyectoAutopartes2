@@ -24,25 +24,7 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 
 ## CASO DE USO
 
-
- - Nombre:  Calcular Promedio Ventas Autopartes.
- - Actores:  Gerente de Autopartes
- - Propisito:  Guardar numero de referencia del producto ,  nombre y modelo del vehiculo y precio de la venta para calcular un promedio de venta.
-
-<b>Curso Normal de Eventos:</b>
-
-<ol>
-1. El gerente ingresa la cantidad de ventas obtenidas
-</ol>
-<ol>
-2. El gerente ingresa el precio del producto , numero de referencia del producto , modelo del vehiculo a aplicar el producto
-</ol>
-<ol>
-3. Se calcula el promedio de venta a partir de : 
-promedio =  (acum + ventas2) / ventas;</ol>
-<ol>
-4. Se da a conocer el promedio de las ventas y los productos que fueron ingresados 
-</ol>
+![](https://github.com/Diegogonzalezdr/ProyectoAutopartes2/blob/main/Diagrama%20de%20caso%20de%20uso.png)
 
 <hr>
 
