@@ -45,13 +45,13 @@ promedio =  (acum + ventas2) / ventas;</ol>
 </ol>
 
 <hr>
-## DIAGRAMA DE FLUJO
 
-<link>https://lucid.app/documents/view/3f1cf999-31fe-4def-87ec-c73198817c49</link>
+# DIAGRAMA DE FLUJO
+
+![](https://github.com/Diegogonzalezdr/ProyectoAutopartes2/blob/main/Diagrama%20en%20blanco.jpeg)
 
 
 </hr>
-
 
 ## pseudocodigo 
 <p>
